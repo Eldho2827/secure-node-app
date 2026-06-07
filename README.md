@@ -275,5 +275,5 @@ ECR Image: `515241426563.dkr.ecr.ap-south-1.amazonaws.com/nodejs-secure-app:buil
 ## 👨‍💻 Author
 
 **Eldho Sabu**
-AWS DevOps Intern — Cokonet Academy, Trivandrum
+AWS DevOps Intern
 🔗 [LinkedIn](https://linkedin.com/in/eldhosabu08) · 🐙 [GitHub](https://github.com/Eldho2827)
